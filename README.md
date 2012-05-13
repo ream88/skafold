@@ -1,4 +1,4 @@
-# skafold
+# skafold [![Build Status](https://secure.travis-ci.org/haihappen/skafold.png?branch=master)](http://travis-ci.org/haihappen/skafold)
 
 Generates HTML scaffolds the way I need it everyday as a web developer.
 
