@@ -19,8 +19,8 @@ long gone. Today my work depends on various different frameworks:
 
 ## Usage
 
-Skafold simplifies the generation of such a scafold by reducing it to
-one command:
+Skafold simplifies the generation of such a scafold by reducing it into
+one command (using the incredible [thor](https://github.com/wycats/thor) by @wycats):
 
 ```sh
 skafold APP_NAME
